@@ -1,0 +1,89 @@
+body {
+    display: grid;
+    place-content: center;
+    animation: gcnimation 5s infinite alternate linear;
+   
+}
+
+@keyframes gcnimation {
+    0% {
+        background-color: #ee6055;
+    }
+
+    25% {
+        background-color: #eec355;
+    }
+
+    50% {
+        background-color: #8afe76;
+    }
+
+    75% {
+        background-color: #55d2ee;
+    }
+
+    100% {
+        background-color: #ee55ee;
+    }
+}
+
+
+#appGc {
+    height: 420px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#appGc form {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+
+}
+
+#appGc input[type=textfield] {
+    height: 20%;
+    width: 100%;
+    cursor: default;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(e, 0, 0);
+    color: white;
+    padding: 0px;
+    text-align: right;
+    font-size: 50px;
+    border: 0;
+    outline: none;
+    background-color: black;
+    border-radius: 20px;
+
+}
+
+#appGc input[type=button],
+input[type=reset] {
+    width: 22%;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    color: black;
+    padding: 18px;
+    margin: 3px;
+    border: none;
+    border-radius: 100%;
+}
+
+#appGc .orange {
+    background-color: rgb(253, 149, 3) !important;
+    color: white !important;
+}
+
+#appGc .gray {
+    background-color: rgb(51, 51, 51) !important;
+    color: white !important;
+}
