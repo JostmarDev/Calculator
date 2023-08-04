@@ -1,7 +1,7 @@
 # Calculadora Web
 [🇺🇸 English](README.md) | [🇪🇸 Español](README-es.md)
 
-![Captura de Pantalla de la Calculadora]()
+![Captura de Pantalla de la Calculadora](./img/Calculator.png)
 
 Una calculadora web funcional desarrollada con HTML, CSS y JavaScript. Este proyecto tiene como objetivo ayudarte a aprender y mejorar tus habilidades de desarrollo web.
 
@@ -22,7 +22,7 @@ Una calculadora web funcional desarrollada con HTML, CSS y JavaScript. Este proy
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla de la Calculadora]()
+![Captura de Pantalla de la Calculadora](./img/Calculator2.png)
 
 
 ## Licencia
@@ -33,4 +33,4 @@ Este proyecto no tiene una licencia específica y es solo para fines de aprendiz
 
 Desarrollado por Jese Jostmar Alfonso Alejandro
 
-Proyecto alojado en: 
+Proyecto alojado en: https://github.com/JostmarDev/Calculator

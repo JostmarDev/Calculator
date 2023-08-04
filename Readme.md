@@ -1,7 +1,7 @@
 # Calculator Web
 [🇺🇸 English](README.md) | [🇪🇸 Español](README-es.md)
 
-![Calculator Screenshot](screenshots/calculator.png)
+![Calculator Screenshot](./img/Calculator.png)
 
 A functional web calculator developed using HTML, CSS, and JavaScript. This project aims to help you learn and enhance your web development skills.
 
@@ -22,7 +22,7 @@ A functional web calculator developed using HTML, CSS, and JavaScript. This proj
 
 ## Screenshots
 
-![Calculator Screenshot]()
+![Calculator Screenshot](./img/Calculator2.png)
 
 ## License
 
@@ -32,4 +32,4 @@ This project doesn't have a specific license and is for personal learning purpos
 
 Developed by Jese Jostmar Alfonso Alejandro
 
-Project hosted at: 
+Project hosted at: https://github.com/JostmarDev/Calculator
